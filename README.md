@@ -1,0 +1,2 @@
+# VIRTUAL-MOUSE-USING-HAND-GESTURE-RECOGNATION
+A Virtual Mouse using Hand Gesture Recognition is a system that replaces a physical mouse by detecting and interpreting hand movements through a camera. Using computer vision and machine learning, it tracks finger gestures to control cursor movement  other mouse functions &amp; enabling a touch-free and more intuitive way of interacting with  computer.
